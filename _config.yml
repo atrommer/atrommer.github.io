@@ -1,8 +1,8 @@
-title: Atrommer.github.io
+title: Andrew Trommer
 description: 
 google_analytics: 
-show_downloads: true
-theme: jekyll-theme-tactile
+show_downloads: false
+theme: minima
 
 gems:
   - jekyll-mentions
